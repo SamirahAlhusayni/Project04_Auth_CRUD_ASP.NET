@@ -25,6 +25,7 @@
 ### ERD
 
 <img src="HealthChoice_Proj4/ERD.png">
+
 ## Set up  
 
 ### Prerequisites
